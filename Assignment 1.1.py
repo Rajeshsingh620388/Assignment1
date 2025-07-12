@@ -1,4 +1,4 @@
-#Addition
+
 
 a = int(input("enter the first number : "))
 b = int(input ("enter the second number : "))
@@ -10,3 +10,8 @@ print(addition)
 print(subtraction)
 print(multiplication)
 print(division)
+
+c = input("enter your first name :  ")
+d = input("enter your last name :   ")
+print('Hello, ' + c +  d +'!' + ' Welcome to the python program' )
+
